@@ -1,6 +1,6 @@
 # bashrc plugins
 
-Set customized bashrc plugins.
+Set of customized bashrc plugins.
 
 ## Getting started
 
