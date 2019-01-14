@@ -1,4 +1,4 @@
-# bashrc plugins
+# bashrc plugins [![Author Badge](https://img.shields.io/badge/author-sjkywalker-purple.svg)](https://github.com/sjkywalker/)
 
 Set of customized bashrc plugins.
 
